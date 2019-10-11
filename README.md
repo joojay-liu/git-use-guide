@@ -21,3 +21,10 @@ git config user.email 'joojay@126.com'
 git config --global user.name 'joojay'
 git config --global user.email 'joojay@126.com'
 ```
+
+#### 4. 查看此项目的用户名和邮箱
+
+```
+git config user.name
+git config user.email
+```
