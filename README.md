@@ -28,3 +28,17 @@ git config --global user.email 'joojay@126.com'
 git config user.name
 git config user.email
 ```
+
+#### 5. .gitignore文件的基本配置
+
+```
+//.gitignore
+
+node_modules
+
+dist
+
+.idea
+
+.vscode
+```
